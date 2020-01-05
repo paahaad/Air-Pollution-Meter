@@ -1,0 +1,15 @@
+gassensor we are using is MQ135 which can also detect the co2,smoke,NH3 etc.
+you can refer datasheet of MQ135 for the more detail.
+
+pin description:
+
+1.VCC:
+	power souce of +5v.
+
+2.ground:
+	connect the ground to the module(ardunio)
+
+3.digital out:
+	use to get the digital output.
+4.analog out:
+	use to get the analog output.	

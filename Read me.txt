@@ -1,0 +1,17 @@
+This project is based on arduino which will read the co2 gas present in air and display the data into a OLED screen.
+
+requirement:
+1.ardunio
+2.MQ135 gas sensor.
+3.OLED
+4.red led.
+5.Jumper wire
+
+step1:
+
+connect the circuit according tho the fig.
+
+step2:
+
+upload the code.
+

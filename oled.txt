@@ -1,0 +1,24 @@
+OLED is screen which will display the data. oled is easy to configure with arduino.
+
+NOTE: 
+I am using oled SH1106, therefore im using <Adafruit_SH1106.H>
+if you are using SSD1306 you can use <Adafruit_SSD1306.H> hadder file.
+you can simply rewrite the hadderfile.every thing will be there whan you will intall
+adafruit package.
+
+pin:
+
+1.vin : +5v
+2.GND : GND
+3.SCL : A5
+4.SDA : A4
+
+for different bord:
+
+Nano  : SDA (A4); SCL (A5);
+MEGA  : SDA (20); SCL (21);
+Leonardo: SDA (20); SCL (21);
+
+connection is given in the digram.(oled conection.png)
+
+
